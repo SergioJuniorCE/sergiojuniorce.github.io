@@ -23,3 +23,23 @@ body {
     margin: 0% auto;
     float: left;
 }
+
+#TopMenu {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#MenuButton {
+    border: 2px;
+    padding: 10px;
+    margin: 5px;
+    background-color: gold;
+    display: inline-block;
+    text-decoration: none;
+}
+#MenuButton:hover {
+    background-color: dodgerblue;
+    color: tomato;
+}
